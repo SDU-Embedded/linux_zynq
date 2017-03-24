@@ -2,7 +2,7 @@
 ***
 This repository hosts a wiki explaining how to install Linux on the ZYBO (and later MicroZed) and files necessary for the process.
 
-Go to the wiki for further details.
+Go to the [wiki](https://github.com/SDU-Embedded/linux_zynq/wiki) for further details.
 
 ***
 
