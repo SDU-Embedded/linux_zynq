@@ -1,0 +1,11 @@
+
+
+
+/include/ "system-top.dts"
+/ {
+	chosen {
+		bootargs = "console=ttyPS0,115200n8 consoleblank=0 root=/dev/mmcblk0p2 rw rootwait earlyprintk";
+		linux,stdout-path = "&uart1";
+	};
+};
+
