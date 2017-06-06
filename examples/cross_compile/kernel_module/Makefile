@@ -5,7 +5,7 @@ CC=$(CROSS_COMPILE)gcc
 
 obj-m += simple.o
 
-KDIR  := ../../linux-xlnx-zynmp-dt-fixes-for-4.10
+KDIR  := path/to/linux-xlnx-zynmp-dt-fixes-for-4.10
 PWD		:= $(shell pwd)
 
 default:
@@ -13,4 +13,3 @@ default:
 
 clean:
 	rm -rf *.o *.mod.* *.symvers *.order *~ *.cmd .tmp*
-
