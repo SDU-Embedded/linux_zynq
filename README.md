@@ -6,5 +6,4 @@ Go to the [wiki](https://github.com/SDU-Embedded/linux_zynq/wiki) for further de
 
 ***
 
-**Maintainers:** Thomas Søndergaard Christensen <thomc12@student.sdu.dk> 
-and Mikkel Skaarup Jaedicke <mijae12@student.sdu.dk>
+**Maintainers:** Thomas Søndergaard Christensen <thsc@mmmi.sdu.dk>
